@@ -498,14 +498,14 @@ margin-bottom: 72px;
 }
 
 .footer-social-link:hover,
+.footer-social-link:focus,
 .footer-social-link:focus-visible {
     background-color: var(--green);
 }
-
 .footer-social-icon {
     width: 24px;
     height: 24px;
-    fill: currentColor;
+    fill: #f4f4fd;
 }
 
 .footer-text {
