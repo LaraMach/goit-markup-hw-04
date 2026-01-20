@@ -176,20 +176,6 @@ body {
 }
 
 /* hero */
-/*.hero {
-        background-image:
-            linear-gradient(var(--grey),
-                var(--grey)),
-            url("../images/people-office-bg.jpg");
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
-        text-align: center;
-        padding-top: 188px;
-        padding-bottom: 188px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-        }*/
-
 .hero {
     max-width: 1440px;
     margin-left: auto;
@@ -375,13 +361,13 @@ margin-bottom: 72px;
 .portfolio {}
 
 .our-portfolio {
-   font-weight: 700;
-   font-size: 36px;
-   line-height: 1.11111;
-   letter-spacing: 0.02em;
-   text-align: center;
-   color: var(--navy-blue);
-   margin-bottom: 72px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: var(--navy-blue);
+    margin-bottom: 72px;
 }
 
 .portfolio-grid {
